@@ -2,11 +2,11 @@
 	"official":[
 		{
 			"name":"KOVO-1",
-			"motd":"Kovolska",
-			"ip":"31.214.141.240",
+			"motd":"§lKOVOLSKA - §9EU",
+			"ip":"kovonet.mine-hoster.net",
 			"port":25565,
-			"servertype":"§aCommunity",
-			"maptype":"goofy"
+			"servertype":"§cCommunity",
+			"maptype":"KOVO"
 		}
 	]
 }
